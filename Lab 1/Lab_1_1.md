@@ -1,5 +1,7 @@
 **Lab 1: Protect organizational data with sensitivity labels**
 
+Lab Duration: 50 minutes
+
 **Lab overview**
 
 In this lab you build a working sensitivity-label deployment for Contoso. You enable sensitivity labels for SharePoint and OneDrive, create a label, a label group and an encrypted label for the Finance team, organize the labels, and publish them to users with a label policy.
