@@ -1,6 +1,6 @@
 **Lab 2: Implement generative AI guardrails with Azure AI Content Safety**
 
-**Estimated time:** 60 minutes
+**Estimated time:** 50 minutes
 
 ## Lab overview
 
