@@ -1,5 +1,7 @@
 # Lab 3: Apply principles of Zero Trust to Microsoft Copilots
 
+Lab Duration: 50 minutes
+
 ### **Lab Overview**
 
 In this hands-on lab, you secure a Microsoft 365 Copilot deployment by applying the three Zero Trust principles: verify explicitly, use least privileged access, and assume breach. You work through the seven protection layers in the order Microsoft recommends, deploying one representative control per layer, and then validate that Copilot only surfaces data a user is already allowed to see.
